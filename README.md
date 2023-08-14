@@ -1,3 +1,7 @@
+# Eat-N-Split
+
+This is a app where I have used all the basic knowledge of React - useState Hook, Props, Children etc. This app lets you split your bill with your friend in an effective and interactive way.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
